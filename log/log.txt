@@ -1,0 +1,68 @@
+Timestamp: 2020-04-20 20:01:33
+Uncaught exception：
+Traceback (most recent call last):
+  File "F:/比赛/作品赛/project/lib/Exception.py", line 72, in <module>
+    1/0
+ZeroDivisionError: division by zero
+
+
+Timestamp: 2020-04-20 20:02:11
+Uncaught exception：
+Traceback (most recent call last):
+  File "F:/比赛/作品赛/project/lib/Exception.py", line 72, in <module>
+    1/0
+ZeroDivisionError: division by zero
+
+
+Timestamp: 2020-04-20 20:02:17
+Uncaught exception：
+Traceback (most recent call last):
+  File "F:/比赛/作品赛/project/lib/Exception.py", line 72, in <module>
+    1/0
+ZeroDivisionError: division by zero
+
+
+Timestamp: 2020-04-20 20:02:26
+Uncaught exception：
+Traceback (most recent call last):
+  File "F:/比赛/作品赛/project/lib/Exception.py", line 72, in <module>
+    1/0
+ZeroDivisionError: division by zero
+
+
+Timestamp: 2020-04-20 20:02:41
+Uncaught exception：
+Traceback (most recent call last):
+  File "F:/比赛/作品赛/project/lib/Exception.py", line 72, in <module>
+    1/0
+ZeroDivisionError: division by zero
+
+
+Timestamp: 2020-04-20 20:42:31
+Uncaught exception：
+Traceback (most recent call last):
+  File "F:/比赛/作品赛/project/lib/Exception.py", line 72, in <module>
+    1/0
+ZeroDivisionError: division by zero
+
+
+Timestamp: 2020-04-20 20:42:39
+Uncaught exception：
+Traceback (most recent call last):
+  File "F:/比赛/作品赛/project/lib/Exception.py", line 72, in <module>
+    1/0
+ZeroDivisionError: division by zero
+
+
+Timestamp: 2020-04-20 21:00:50
+Uncaught exception：
+Traceback (most recent call last):
+  File "F:/比赛/作品赛/project/lib/Exception.py", line 46, in <module>
+    test.Emmm()
+  File "F:\比赛\作品赛\project\lib\test.py", line 21, in __init__
+    self.run()
+  File "F:\比赛\作品赛\project\lib\test.py", line 24, in run
+    a = 1/0
+ZeroDivisionError: division by zero
+
+
